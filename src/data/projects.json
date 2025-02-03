@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Java Turtle GUI",
+    "imageSrc": "projects/TurtleJava.png",
+    "description": "A project built using Java's Turtle GUI for my undergraduate assessment. The project involved utilizing a provided JAR file, with the remaining code written in Eclipse IDE to create an interactive graphical interface.",
+    "skills": ["Java", "File handling", "OOP", "GUI"],
+    "demo": "#projects",
+    "source": "https://github.com/BuZZraa/Java-Turtle-GUI.git"
+  },
+  {
+    "title": "Clash Royale Stats Generator",
+    "imageSrc": "projects/statsroyale.png",
+    "description": "A web app that fetches and displays player stats and chest cycle data from Clash Royale using a valid player tag. Built with Node.js and the axios package for efficient API integration and real-time data display.",
+    "skills": ["HTML", "CSS", "JavaScript", "Express", "Node", "REST API"],
+    "demo": "#projects",
+    "source": "https://github.com/BuZZraa/Clash-Royale-Stats-Generator.git"
+  },
+  {
+    "title": "CleckCart",
+    "imageSrc": "projects/cleckcart.png",
+    "description": "An e-commerce platform where traders can apply to sell their goods, with each trader being unique. Customers can shop from a variety of items. Developed as part of a university team project with 6 members, this project involved real-world processes including documentation, meetings, and contracts, simulating a full project lifecycle.",
+    "skills": ["HTML", "CSS", "JavaScript", "Oracle", "PHP", "SQL", "Figma"],
+    "demo": "#projects",
+    "source": "https://github.com/BuZZraa/CleckCart_Website.git"
+  }
+]

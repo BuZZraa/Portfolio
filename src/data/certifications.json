@@ -1,0 +1,15 @@
+[
+  {
+    "title": "The Complete 2023 Web Development Bootcamp",
+    "teacher": "Dr. Angela Yu",
+    "completionDate": "Sept, 2023",
+    "experiences": [
+      "Built a strong portfolio with 16 web projects.",
+      "Mastered front-end technologies like HTML, CSS, and JavaScript.",
+      "Built responsive websites and dynamic web apps.",
+      "Learned backend development with Express and PostgreSQL.",
+      "Gained familiarity with deployment, API integration, and version control with Git."
+    ],
+    "imageSrc": "history/udemy.png"
+  }
+]
