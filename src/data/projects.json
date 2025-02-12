@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nike Clone",
+    "imageSrc": "projects/nike.png",
+    "description": "A responsive nike landing page built with React and Tailwind CSS, following a JavaScript Mastery walkthrough. Features dynamic UI, smooth animations, and modern design.",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Tailwind", "Vite"],
+    "demo": "https://nikewebappclone.netlify.app/",
+    "source": "https://github.com/BuZZraa/Nike-Clone/tree/main/nike"
+  },
+  {
     "title": "Java Turtle GUI",
     "imageSrc": "projects/TurtleJava.png",
     "description": "A project built using Java's Turtle GUI for my undergraduate assessment. The project involved utilizing a provided JAR file, with the remaining code written in Eclipse IDE to create an interactive graphical interface.",
