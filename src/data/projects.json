@@ -8,14 +8,6 @@
     "source": "https://github.com/BuZZraa/Nike-Clone/tree/main/nike"
   },
   {
-    "title": "Java Turtle GUI",
-    "imageSrc": "projects/TurtleJava.png",
-    "description": "A project built using Java's Turtle GUI for my undergraduate assessment. The project involved utilizing a provided JAR file, with the remaining code written in Eclipse IDE to create an interactive graphical interface.",
-    "skills": ["Java", "File handling", "OOP", "GUI"],
-    "demo": "#projects",
-    "source": "https://github.com/BuZZraa/Java-Turtle-GUI.git"
-  },
-  {
     "title": "Clash Royale Stats Generator",
     "imageSrc": "projects/statsroyale.png",
     "description": "A web app that fetches and displays player stats and chest cycle data from Clash Royale using a valid player tag. Built with Node.js and the axios package for efficient API integration and real-time data display.",
@@ -30,5 +22,21 @@
     "skills": ["HTML", "CSS", "JavaScript", "Oracle", "PHP", "SQL", "Figma"],
     "demo": "#projects",
     "source": "https://github.com/BuZZraa/CleckCart_Website.git"
+  },
+  {
+    "title": "Notefy",
+    "imageSrc": "projects/notefy.png",
+    "description": "Notefy is a collaborative note-taking app built with the MERN stack and Web Speech API, allowing users to create, edit, and share notes via text or voice. It features user authentication for secure access and a responsive design for seamless individual or team use.",
+    "skills": ["HTML", "CSS", "JavaScript", "Figma", "MongoDB", "Mongoose", "Express", "React", "NodeJS", "Web Speech API", "Postman", "Jwt Authentication", "React Redux"],
+    "demo": "#projects",
+    "source": "https://github.com/BuZZraa/Notefy.git"
+  },
+  {
+    "title": "Java Turtle GUI",
+    "imageSrc": "projects/TurtleJava.png",
+    "description": "A project built using Java's Turtle GUI for my undergraduate assessment. The project involved utilizing a provided JAR file, with the remaining code written in Eclipse IDE to create an interactive graphical interface.",
+    "skills": ["Java", "File handling", "OOP", "GUI"],
+    "demo": "#projects",
+    "source": "https://github.com/BuZZraa/Java-Turtle-GUI.git"
   }
 ]
